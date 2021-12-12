@@ -1,0 +1,9 @@
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\EntitiesProject\bin\Release\netcoreapp2.0\EntitiesProject.deps.json
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\EntitiesProject\bin\Release\netcoreapp2.0\EntitiesProject.dll
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\EntitiesProject\bin\Release\netcoreapp2.0\EntitiesProject.pdb
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\EntitiesProject\obj\Release\netcoreapp2.0\EntitiesProject.csprojResolveAssemblyReference.cache
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\EntitiesProject\obj\Release\netcoreapp2.0\EntitiesProject.csproj.CoreCompileInputs.cache
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\EntitiesProject\obj\Release\netcoreapp2.0\EntitiesProject.AssemblyInfoInputs.cache
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\EntitiesProject\obj\Release\netcoreapp2.0\EntitiesProject.AssemblyInfo.cs
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\EntitiesProject\obj\Release\netcoreapp2.0\EntitiesProject.dll
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\EntitiesProject\obj\Release\netcoreapp2.0\EntitiesProject.pdb

@@ -1,0 +1,11 @@
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\BLInterfaces\bin\Debug\netcoreapp2.2\BLIntersfaces.deps.json
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\BLInterfaces\bin\Debug\netcoreapp2.2\BLIntersfaces.dll
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\BLInterfaces\bin\Debug\netcoreapp2.2\BLIntersfaces.pdb
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\BLInterfaces\bin\Debug\netcoreapp2.2\EntitiesProject.dll
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\BLInterfaces\bin\Debug\netcoreapp2.2\EntitiesProject.pdb
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\BLInterfaces\obj\Debug\netcoreapp2.2\BLIntersfaces.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\BLInterfaces\obj\Debug\netcoreapp2.2\BLIntersfaces.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\BLInterfaces\obj\Debug\netcoreapp2.2\BLIntersfaces.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\BLInterfaces\obj\Debug\netcoreapp2.2\BLIntersfaces.csproj.CopyComplete
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\BLInterfaces\obj\Debug\netcoreapp2.2\BLIntersfaces.dll
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\BLInterfaces\obj\Debug\netcoreapp2.2\BLIntersfaces.pdb

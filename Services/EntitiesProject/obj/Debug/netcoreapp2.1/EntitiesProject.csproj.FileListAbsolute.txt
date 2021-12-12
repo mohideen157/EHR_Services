@@ -1,0 +1,8 @@
+E:\Office\Source\EHR\Services\EntitiesProject\bin\Debug\netcoreapp2.1\EntitiesProject.deps.json
+E:\Office\Source\EHR\Services\EntitiesProject\bin\Debug\netcoreapp2.1\EntitiesProject.dll
+E:\Office\Source\EHR\Services\EntitiesProject\bin\Debug\netcoreapp2.1\EntitiesProject.pdb
+E:\Office\Source\EHR\Services\EntitiesProject\obj\Debug\netcoreapp2.1\EntitiesProject.csprojAssemblyReference.cache
+E:\Office\Source\EHR\Services\EntitiesProject\obj\Debug\netcoreapp2.1\EntitiesProject.AssemblyInfoInputs.cache
+E:\Office\Source\EHR\Services\EntitiesProject\obj\Debug\netcoreapp2.1\EntitiesProject.AssemblyInfo.cs
+E:\Office\Source\EHR\Services\EntitiesProject\obj\Debug\netcoreapp2.1\EntitiesProject.dll
+E:\Office\Source\EHR\Services\EntitiesProject\obj\Debug\netcoreapp2.1\EntitiesProject.pdb

@@ -1,0 +1,15 @@
+E:\Office\Source\EHR\Services\DALImplementation\bin\Debug\netcoreapp2.1\DALImplementation.deps.json
+E:\Office\Source\EHR\Services\DALImplementation\bin\Debug\netcoreapp2.1\DALImplementation.dll
+E:\Office\Source\EHR\Services\DALImplementation\bin\Debug\netcoreapp2.1\DALImplementation.pdb
+E:\Office\Source\EHR\Services\DALImplementation\bin\Debug\netcoreapp2.1\DALInterfaces.dll
+E:\Office\Source\EHR\Services\DALImplementation\bin\Debug\netcoreapp2.1\EntitiesProject.dll
+E:\Office\Source\EHR\Services\DALImplementation\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+E:\Office\Source\EHR\Services\DALImplementation\bin\Debug\netcoreapp2.1\DALInterfaces.pdb
+E:\Office\Source\EHR\Services\DALImplementation\bin\Debug\netcoreapp2.1\EntitiesProject.pdb
+E:\Office\Source\EHR\Services\DALImplementation\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+E:\Office\Source\EHR\Services\DALImplementation\obj\Debug\netcoreapp2.1\DALImplementation.csprojAssemblyReference.cache
+E:\Office\Source\EHR\Services\DALImplementation\obj\Debug\netcoreapp2.1\DALImplementation.AssemblyInfoInputs.cache
+E:\Office\Source\EHR\Services\DALImplementation\obj\Debug\netcoreapp2.1\DALImplementation.AssemblyInfo.cs
+E:\Office\Source\EHR\Services\DALImplementation\obj\Debug\netcoreapp2.1\DALImplementation.csproj.CopyComplete
+E:\Office\Source\EHR\Services\DALImplementation\obj\Debug\netcoreapp2.1\DALImplementation.dll
+E:\Office\Source\EHR\Services\DALImplementation\obj\Debug\netcoreapp2.1\DALImplementation.pdb

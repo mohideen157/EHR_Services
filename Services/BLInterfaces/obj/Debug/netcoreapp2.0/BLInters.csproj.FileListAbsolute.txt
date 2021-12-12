@@ -1,0 +1,12 @@
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLInterfaces\bin\Debug\netcoreapp2.0\BLInters.deps.json
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLInterfaces\bin\Debug\netcoreapp2.0\BLInters.dll
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLInterfaces\bin\Debug\netcoreapp2.0\BLInters.pdb
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLInterfaces\bin\Debug\netcoreapp2.0\EntitiesProject.dll
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLInterfaces\bin\Debug\netcoreapp2.0\EntitiesProject.pdb
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLInterfaces\obj\Debug\netcoreapp2.0\BLInters.csprojResolveAssemblyReference.cache
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLInterfaces\obj\Debug\netcoreapp2.0\BLInters.csproj.CoreCompileInputs.cache
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLInterfaces\obj\Debug\netcoreapp2.0\BLInters.AssemblyInfoInputs.cache
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLInterfaces\obj\Debug\netcoreapp2.0\BLInters.AssemblyInfo.cs
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLInterfaces\obj\Debug\netcoreapp2.0\BLInters.csproj.CopyComplete
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLInterfaces\obj\Debug\netcoreapp2.0\BLInters.dll
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLInterfaces\obj\Debug\netcoreapp2.0\BLInters.pdb

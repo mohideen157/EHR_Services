@@ -1,0 +1,10 @@
+F:\SAMPLES\CoreWebApi\CoreWebApi\bin\Release\netcoreapp2.0\CoreWebApi.deps.json
+F:\SAMPLES\CoreWebApi\CoreWebApi\bin\Release\netcoreapp2.0\CoreWebApi.runtimeconfig.json
+F:\SAMPLES\CoreWebApi\CoreWebApi\bin\Release\netcoreapp2.0\CoreWebApi.runtimeconfig.dev.json
+F:\SAMPLES\CoreWebApi\CoreWebApi\bin\Release\netcoreapp2.0\CoreWebApi.dll
+F:\SAMPLES\CoreWebApi\CoreWebApi\bin\Release\netcoreapp2.0\CoreWebApi.pdb
+F:\SAMPLES\CoreWebApi\CoreWebApi\obj\Release\netcoreapp2.0\CoreWebApi.csproj.CoreCompileInputs.cache
+F:\SAMPLES\CoreWebApi\CoreWebApi\obj\Release\netcoreapp2.0\CoreWebApi.AssemblyInfoInputs.cache
+F:\SAMPLES\CoreWebApi\CoreWebApi\obj\Release\netcoreapp2.0\CoreWebApi.AssemblyInfo.cs
+F:\SAMPLES\CoreWebApi\CoreWebApi\obj\Release\netcoreapp2.0\CoreWebApi.dll
+F:\SAMPLES\CoreWebApi\CoreWebApi\obj\Release\netcoreapp2.0\CoreWebApi.pdb

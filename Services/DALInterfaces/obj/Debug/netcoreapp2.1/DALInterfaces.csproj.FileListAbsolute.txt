@@ -1,0 +1,11 @@
+E:\Office\Source\EHR\Services\DALInterfaces\bin\Debug\netcoreapp2.1\DALInterfaces.deps.json
+E:\Office\Source\EHR\Services\DALInterfaces\bin\Debug\netcoreapp2.1\DALInterfaces.dll
+E:\Office\Source\EHR\Services\DALInterfaces\bin\Debug\netcoreapp2.1\DALInterfaces.pdb
+E:\Office\Source\EHR\Services\DALInterfaces\bin\Debug\netcoreapp2.1\EntitiesProject.dll
+E:\Office\Source\EHR\Services\DALInterfaces\bin\Debug\netcoreapp2.1\EntitiesProject.pdb
+E:\Office\Source\EHR\Services\DALInterfaces\obj\Debug\netcoreapp2.1\DALInterfaces.csprojAssemblyReference.cache
+E:\Office\Source\EHR\Services\DALInterfaces\obj\Debug\netcoreapp2.1\DALInterfaces.AssemblyInfoInputs.cache
+E:\Office\Source\EHR\Services\DALInterfaces\obj\Debug\netcoreapp2.1\DALInterfaces.AssemblyInfo.cs
+E:\Office\Source\EHR\Services\DALInterfaces\obj\Debug\netcoreapp2.1\DALInterfaces.csproj.CopyComplete
+E:\Office\Source\EHR\Services\DALInterfaces\obj\Debug\netcoreapp2.1\DALInterfaces.dll
+E:\Office\Source\EHR\Services\DALInterfaces\obj\Debug\netcoreapp2.1\DALInterfaces.pdb

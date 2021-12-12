@@ -1,0 +1,12 @@
+F:\SAMPLES\CoreWebApi\CoreWebApi
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=CoreWebApi
+--content-root=F:\SAMPLES\CoreWebApi\CoreWebApi
+--file=F:\SAMPLES\CoreWebApi\CoreWebApi\Pages\About.cshtml
+--file=F:\SAMPLES\CoreWebApi\CoreWebApi\Pages\Contact.cshtml
+--file=F:\SAMPLES\CoreWebApi\CoreWebApi\Pages\Error.cshtml
+--file=F:\SAMPLES\CoreWebApi\CoreWebApi\Pages\Index.cshtml
+--file=F:\SAMPLES\CoreWebApi\CoreWebApi\Pages\_Layout.cshtml
+--file=F:\SAMPLES\CoreWebApi\CoreWebApi\Pages\_ValidationScriptsPartial.cshtml
+--file=F:\SAMPLES\CoreWebApi\CoreWebApi\Pages\_ViewImports.cshtml
+--file=F:\SAMPLES\CoreWebApi\CoreWebApi\Pages\_ViewStart.cshtml

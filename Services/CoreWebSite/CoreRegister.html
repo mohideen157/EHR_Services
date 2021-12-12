@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>To-do CRUD</title>
+    <style>
+        input[type='submit'], button, [aria-label] {
+            cursor: pointer;
+        }
+
+        #spoiler {
+            display: none;
+        }
+
+        table {
+            font-family: Arial, sans-serif;
+            border: 1px solid;
+            border-collapse: collapse;
+        }
+
+        th {
+            background-color: #0066CC;
+            color: white;
+        }
+
+        td {
+            border: 1px solid;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td> Username </td>
+            <td> <input id="txtUsername" type="text" maxlength="10" /> </td>
+        </tr>
+
+        <tr>
+            <td> Password </td>
+            <td> <input id="txtPassword" type="text" maxlength="10" /> </td>
+        </tr>
+        <tr>
+            <td> Name </td>
+            <td> <input id="txtName" type="text" maxlength="10" /> </td>
+        </tr>
+        <tr>
+            <td> MobileNo </td>
+            <td> <input id="txtMobileNo" type="text" maxlength="10" /> </td>
+        </tr>
+        <tr>
+            <td> EmailId </td>
+            <td> <input id="txtEmailId" type="text" maxlength="50" /> </td>
+        </tr>
+        <tr>
+            <td> <input id="btnSubmit" type="button" value="Submit" onclick="RegisterSubmitEvent()" /></td>
+            <td> <input id="btnClear" type="button" value="Clear" /></td>
+        </tr>
+    </table>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    //<script src="RegisterAPI.js"></script>
+    <script src="JSScripts/RegisterAPI.js"></script>
+
+
+</body>
+</html>

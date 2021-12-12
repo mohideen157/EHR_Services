@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BLIntersfaces">
+      <HintPath>..\BLInterfaces\bin\Debug\netcoreapp2.0\BLIntersfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="DALImplementation">
+      <HintPath>..\DALImplementation\bin\Debug\netcoreapp2.0\DALImplementation.dll</HintPath>
+    </Reference>
+    <Reference Include="DALInterfaces">
+      <HintPath>..\DALInterfaces\bin\Debug\netcoreapp2.0\DALInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="EntitiesProject">
+      <HintPath>..\EntitiesProject\bin\Debug\netcoreapp2.0\EntitiesProject.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

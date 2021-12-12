@@ -1,0 +1,14 @@
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLImplementation\bin\Release\netcoreapp2.0\BLImplementation.deps.json
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLImplementation\bin\Release\netcoreapp2.0\BLImplementation.dll
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLImplementation\bin\Release\netcoreapp2.0\BLImplementation.pdb
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLImplementation\bin\Release\netcoreapp2.0\BLIntersfaces.dll
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLImplementation\bin\Release\netcoreapp2.0\EntitiesProject.dll
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLImplementation\bin\Release\netcoreapp2.0\BLIntersfaces.pdb
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLImplementation\bin\Release\netcoreapp2.0\EntitiesProject.pdb
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLImplementation\obj\Release\netcoreapp2.0\BLImplementation.csprojResolveAssemblyReference.cache
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLImplementation\obj\Release\netcoreapp2.0\BLImplementation.csproj.CoreCompileInputs.cache
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLImplementation\obj\Release\netcoreapp2.0\BLImplementation.AssemblyInfoInputs.cache
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLImplementation\obj\Release\netcoreapp2.0\BLImplementation.AssemblyInfo.cs
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLImplementation\obj\Release\netcoreapp2.0\BLImplementation.csproj.CopyComplete
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLImplementation\obj\Release\netcoreapp2.0\BLImplementation.dll
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\BLImplementation\obj\Release\netcoreapp2.0\BLImplementation.pdb

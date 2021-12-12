@@ -1,0 +1,13 @@
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\DALImplementation\bin\Release\netcoreapp2.0\DALImplementation.deps.json
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\DALImplementation\bin\Release\netcoreapp2.0\DALImplementation.dll
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\DALImplementation\bin\Release\netcoreapp2.0\DALImplementation.pdb
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\DALImplementation\bin\Release\netcoreapp2.0\DALInterfaces.dll
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\DALImplementation\bin\Release\netcoreapp2.0\EntitiesProject.dll
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\DALImplementation\bin\Release\netcoreapp2.0\DALInterfaces.pdb
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\DALImplementation\bin\Release\netcoreapp2.0\EntitiesProject.pdb
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\DALImplementation\obj\Release\netcoreapp2.0\DALImplementation.csproj.CoreCompileInputs.cache
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\DALImplementation\obj\Release\netcoreapp2.0\DALImplementation.AssemblyInfoInputs.cache
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\DALImplementation\obj\Release\netcoreapp2.0\DALImplementation.AssemblyInfo.cs
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\DALImplementation\obj\Release\netcoreapp2.0\DALImplementation.csproj.CopyComplete
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\DALImplementation\obj\Release\netcoreapp2.0\DALImplementation.dll
+F:\CS.Sasikumar\SMACPLUS\Products\CRM_Web\CoreWebApi\DALImplementation\obj\Release\netcoreapp2.0\DALImplementation.pdb

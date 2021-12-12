@@ -1,0 +1,11 @@
+E:\Office\Source\EHR\Services\BLInterfaces\bin\Debug\netcoreapp2.1\BLIntersfaces.deps.json
+E:\Office\Source\EHR\Services\BLInterfaces\bin\Debug\netcoreapp2.1\BLIntersfaces.dll
+E:\Office\Source\EHR\Services\BLInterfaces\bin\Debug\netcoreapp2.1\BLIntersfaces.pdb
+E:\Office\Source\EHR\Services\BLInterfaces\bin\Debug\netcoreapp2.1\EntitiesProject.dll
+E:\Office\Source\EHR\Services\BLInterfaces\bin\Debug\netcoreapp2.1\EntitiesProject.pdb
+E:\Office\Source\EHR\Services\BLInterfaces\obj\Debug\netcoreapp2.1\BLIntersfaces.csprojAssemblyReference.cache
+E:\Office\Source\EHR\Services\BLInterfaces\obj\Debug\netcoreapp2.1\BLIntersfaces.AssemblyInfoInputs.cache
+E:\Office\Source\EHR\Services\BLInterfaces\obj\Debug\netcoreapp2.1\BLIntersfaces.AssemblyInfo.cs
+E:\Office\Source\EHR\Services\BLInterfaces\obj\Debug\netcoreapp2.1\BLIntersfaces.csproj.CopyComplete
+E:\Office\Source\EHR\Services\BLInterfaces\obj\Debug\netcoreapp2.1\BLIntersfaces.dll
+E:\Office\Source\EHR\Services\BLInterfaces\obj\Debug\netcoreapp2.1\BLIntersfaces.pdb

@@ -1,0 +1,8 @@
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\EntitiesProject\bin\Debug\netcoreapp3.1\EntitiesProject.deps.json
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\EntitiesProject\bin\Debug\netcoreapp3.1\EntitiesProject.dll
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\EntitiesProject\bin\Debug\netcoreapp3.1\EntitiesProject.pdb
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\EntitiesProject\obj\Debug\netcoreapp3.1\EntitiesProject.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\EntitiesProject\obj\Debug\netcoreapp3.1\EntitiesProject.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\EntitiesProject\obj\Debug\netcoreapp3.1\EntitiesProject.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\EntitiesProject\obj\Debug\netcoreapp3.1\EntitiesProject.dll
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\EntitiesProject\obj\Debug\netcoreapp3.1\EntitiesProject.pdb

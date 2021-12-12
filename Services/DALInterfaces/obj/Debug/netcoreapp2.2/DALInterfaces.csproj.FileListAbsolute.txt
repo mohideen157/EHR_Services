@@ -1,0 +1,11 @@
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\DALInterfaces\bin\Debug\netcoreapp2.2\DALInterfaces.deps.json
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\DALInterfaces\bin\Debug\netcoreapp2.2\DALInterfaces.dll
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\DALInterfaces\bin\Debug\netcoreapp2.2\DALInterfaces.pdb
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\DALInterfaces\bin\Debug\netcoreapp2.2\EntitiesProject.dll
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\DALInterfaces\bin\Debug\netcoreapp2.2\EntitiesProject.pdb
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\DALInterfaces\obj\Debug\netcoreapp2.2\DALInterfaces.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\DALInterfaces\obj\Debug\netcoreapp2.2\DALInterfaces.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\DALInterfaces\obj\Debug\netcoreapp2.2\DALInterfaces.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\DALInterfaces\obj\Debug\netcoreapp2.2\DALInterfaces.csproj.CopyComplete
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\DALInterfaces\obj\Debug\netcoreapp2.2\DALInterfaces.dll
+C:\Users\DELL\Downloads\Source-20200718T142424Z-001\Source\EHR\Services\DALInterfaces\obj\Debug\netcoreapp2.2\DALInterfaces.pdb
